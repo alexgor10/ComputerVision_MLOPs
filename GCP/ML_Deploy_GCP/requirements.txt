@@ -1,0 +1,14 @@
+streamlit 
+streamlit-webrtc 
+requests
+transformers
+torch
+kfp
+flask
+gunicorn
+scikit-learn
+pandas
+numpy
+ipython
+tensorflow-metadata
+tensorflow-data-validation
